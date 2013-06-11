@@ -1,0 +1,22 @@
+#root {
+	
+}
+#main {
+	text-align:center;
+	margin:30px;
+	position:relative;
+}
+
+#root .modal {
+	top: 20%;
+	width:300px;
+	margin-left: -150px;
+	text-align: left;
+}
+
+/*
+#root .modal .title,
+#root .modal .description {
+	text-align:center;
+}
+*/
