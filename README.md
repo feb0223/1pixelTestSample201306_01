@@ -1,1 +1,0 @@
-CyberAgentクリエーターブログ・1pixel用のサンプルです。
